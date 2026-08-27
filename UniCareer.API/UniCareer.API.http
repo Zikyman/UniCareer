@@ -1,0 +1,6 @@
+@UniCareer.API_HostAddress = http://localhost:5043
+
+GET {{UniCareer.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
